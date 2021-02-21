@@ -7,3 +7,4 @@ COPY . /usr/src/app/
 
 ENTRYPOINT ["python", "main.py"]
 CMD ["10"]
+sss
