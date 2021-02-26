@@ -8,3 +8,4 @@ def fib(n):
 
 
 print(fib(int(sys.argv[1])))
+print("master")
